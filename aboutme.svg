@@ -1,19 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=I+am+passionate+about+using+technology+to+make+life+easier+and+smarter." alt="Line 1" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <style>
+    text {
+      font-family: "Fira Code", monospace;
+      font-size: 22px;
+      fill: #36BCF7;
+    }
+  </style>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=A+dreamer+at+heart,+I+believe+in+the+future+of+AGI." alt="Line 2" />
-</p>
+  <!-- Line 1 -->
+  <text x="50" y="50">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="700"
+        dur="4s" begin="0s" fill="freeze" />
+      I am passionate about using technology to make life easier and smarter.
+    </tspan>
+  </text>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=I+enjoy+working+on+AI+%26+ML+projects+that+solve+real-world+problems." alt="Line 3" />
-</p>
+  <!-- Line 2 -->
+  <text x="50" y="100">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="1000"
+        dur="5s" begin="4.5s" fill="freeze" />
+      A dreamer at heart, I strongly believe in the future of AGI and love exploring paths that bring us closer to it.
+    </tspan>
+  </text>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=Always+curious+and+eager+to+learn+from+others." alt="Line 4" />
-</p>
+  <!-- Line 3 -->
+  <text x="50" y="150">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="800"
+        dur="4s" begin="10s" fill="freeze" />
+      I enjoy working on AI & ML projects that solve real-world problems and push boundaries.
+    </tspan>
+  </text>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=My+goal+is+to+build,+experiment,+and+contribute+to+the+AI+community." alt="Line 5" />
-</p>
+  <!-- Line 4 -->
+  <text x="50" y="200">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="700"
+        dur="4s" begin="15s" fill="freeze" />
+      I am always curious, eager to broaden my horizons and learn from others.
+    </tspan>
+  </text>
+
+  <!-- Line 5 -->
+  <text x="50" y="250">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="800"
+        dur="4s" begin="20s" fill="freeze" />
+      My goal is to keep building, experimenting, and contributing to the AI community.
+    </tspan>
+  </text>
+</svg>
