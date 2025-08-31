@@ -19,6 +19,11 @@ A dreamer at heart, I strongly believe in the future of AGI and love exploring p
 I enjoy working on AI & ML projects that solve real-world problems and push the boundaries of what’s possible.  
 I am always curious, eager to broaden my horizons and learn from others.  
 My goal is to keep building, experimenting, and contributing to the AI community.  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+&nbsp; <a href="https://www.linkedin.com/in/shrey-raj-853570241" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /></a>  
+&nbsp; <a href="mailto:shreyraj12210@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
 ## 🛠️ Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn,numpy,pandas,docker,git,github,linux,mysql,mongodb,express,react,nodejs)](https://skillicons.dev)
@@ -39,9 +44,4 @@ My goal is to keep building, experimenting, and contributing to the AI community
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shrey423.shrey423" alt="Visitor Count" />
 </p>
 
-## 📫 Connect With Me  
 
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/shrey-raj-853570241" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /></a>  
-&nbsp; <a href="mailto:shreyraj12210@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
