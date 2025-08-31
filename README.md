@@ -1,4 +1,3 @@
-<!-- Typing Animation + 3D Avatar -->
 <div align="center">
   <table>
     <tr>
@@ -14,22 +13,15 @@
   </table>
 </div>
 
----
-
 ## 👨‍💻 About Me  
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1500&color=36BCF7&center=true&vCenter=true&width=800&lines=I+am+passionate+about+using+technology+to+make+life+easier+and+smarter.;A+dreamer+at+heart,+I+believe+in+the+future+of+AGI.;I+enjoy+working+on+AI+%26+ML+projects+that+solve+real-world+problems.;Always+curious+and+eager+to+learn+from+others.;My+goal+is+to+build,+experiment,+and+contribute+to+the+AI+community." alt="About Me Animation" />
-</p>
-
-
+I am passionate about using technology to make life easier and smarter.  
+A dreamer at heart, I strongly believe in the future of AGI and love exploring paths that bring us closer to it.  
+I enjoy working on AI & ML projects that solve real-world problems and push the boundaries of what’s possible.  
+I am always curious, eager to broaden my horizons and learn from others.  
+My goal is to keep building, experimenting, and contributing to the AI community.  
 
 ## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,docker,git,github,linux,mysql" />
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,sklearn,numpy,pandas,docker,git,github,linux,mysql,mongodb,express,react,nodejs)](https://skillicons.dev)
 
 ## 📊 GitHub Stats  
 
@@ -42,18 +34,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey423&theme=tokyo-night" width="95%"/>
 </p>
 
----
+<!-- Visitor Count -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shrey423.shrey423" alt="Visitor Count" />
+</p>
 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrey423/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shreyraj423@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/shrey423">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
-  </a>
+&nbsp; <a href="https://www.linkedin.com/in/shrey-raj-853570241" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" /></a>  
+&nbsp; <a href="mailto:shreyraj12210@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
